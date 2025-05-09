@@ -2,6 +2,8 @@
 .env
 fullchain.pem
 SectigoRSAOrganizationValidationSecureServerCA.crt
+kelas_1_ARSITEKTUR_KOMPUTER.html
+*.html
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

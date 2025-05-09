@@ -1,5 +1,7 @@
 ### dotenv ###
 .env
+fullchain.pem
+SectigoRSAOrganizationValidationSecureServerCA.crt
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
